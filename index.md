@@ -10,7 +10,7 @@ Please watch this space for information on how to register for the Zoom events.
 
 |Presenter|Title|Affiliation|UMD time|Location|Presenter time|
 |--|--|--|--|--|--|
-|Julie Holledge¹ and Joanne Tompkins²|Data modelling and/or multimedia in digital theatre research|¹Flinders University / ²The University of Queensland |09:05 AM | Australia | 00:05 AM (+1d) |
+|Julie Holledge¹ and Joanne Tompkins²|Virtual Theatre History: Exploring and Displaying Data and Design|¹Flinders University / ²The University of Queensland |09:05 AM | Australia | 00:05 AM (+1d) |
 |Florian Siemund |FAIR Theatre Research|Johannes Gutenberg University of Mainz|09:25 AM|Germany|3:25 PM|
 |Rafaella Gasparian and Gustavo Sol|Marash|Centro Universitário Belas Artes, São Paulo|09:45 AM|Brazil|11:45 AM|
 
