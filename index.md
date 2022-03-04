@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## IFTR-Working Group Digital Humanities Satellite Meeting
 
-You can use the [editor on GitHub](https://github.com/IFTR-DH/satellitemeeting2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Data modelling and/or multimedia in digital theatre research
+12 March 2022, 9:00am - 12:15pm (preliminary schedule)
+University of Maryland / Online
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please watch this space for information on how to register for the Zoom events.
 
-### Markdown
+### Session 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+|Presenter|Title|Affiliation|UMD time|Location|Presenter time|
+|--|--|--|--|--|--|
+|Julie Holledge¹ and Joanne Tompkins²|Data modelling and/or multimedia in digital theatre research|¹Flinders University / ²The University of Queensland |09:05 AM | Australia | 00:05 AM (+1d) |
+|Florian Siemund |FAIR Theatre Research|Johannes Gutenberg University of Mainz|09:25 AM|Germany|3:25 PM|
+|Rafaella Gasparian and Gustavo Sol|Marash|Centro Universitário Belas Artes, São Paulo|09:45 AM|Brazil|11:45 AM|
 
-```markdown
-Syntax highlighted code block
+_Discussion 10:05 - 10:30 AM (UMD Time)_
+_Break 10:30 - 10:50 AM (UMD Time)_
 
-# Header 1
-## Header 2
-### Header 3
+## Session 2
 
-- Bulleted
-- List
+|Presenter|Title|Affiliation|UMD time|Location|Presenter time|
+|--|--|--|--|--|--|
+|Mylène Maignant|Mapping British Theatre Criticism Thanks to Numbers|Ecole Normale Supérieure, Paris|10:50 AM|France|4:50 PM|
+|Gabriel Viehhauser and Kirsten Dickhaut|Theater texts as sources for historical performances – a corpus-based digital approach|University of Stuttgart|11:10 AM|Germany|5:10 PM
+|Marjan Moosavi¹, Mehdy Sedaghat Payam¹ and Baharak Sahami²|Iranian Drama by Numbers: A Computational Analysis of Iranian Plays|¹University of Maryland / ²Islamic Azad University (Parand Branch)|11:30 AM|US/Iran|8 PM (Iran)|
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IFTR-DH/satellitemeeting2022/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+_Discussion 11:45 AM - 12:15 PM (UMD Time)_
