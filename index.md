@@ -1,10 +1,15 @@
 ## IFTR-Working Group Digital Humanities Satellite Meeting
 
 # Data modelling and/or multimedia in digital theatre research
-12 March 2022, 9:00am - 12:15pm (preliminary schedule)
-University of Maryland / Online
+12 March 2022
 
-Please watch this space for information on how to register for the Zoom events.
+An IFTR Digital Humanities Working Group Satellite Meeting, to be held in conjunction with the conference *Performing Arts in the Digital Age: Interactions and New Directions* at the University of Maryland, College Park (10-12 March 2022).
+
+Convenors: Nora Probst (University of Paderborn) and Miguel Escobar Varela (National University of Singapore).
+
+Registration is free, please fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSe0g4pHP8KHcYvGaA4dpo6VSJZxON-teWsdwT8JxoqvPPRxNQ/viewform)
+
+Dowload the [book of abstracts](program.pdf).
 
 ### Session 1
 
