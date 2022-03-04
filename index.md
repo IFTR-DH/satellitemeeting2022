@@ -25,4 +25,4 @@ _Break 10:30 - 10:50 AM (UMD Time)_
 |Gabriel Viehhauser and Kirsten Dickhaut|Theater texts as sources for historical performances – a corpus-based digital approach|University of Stuttgart|11:10 AM|Germany|5:10 PM
 |Marjan Moosavi¹, Mehdy Sedaghat Payam¹ and Baharak Sahami²|Iranian Drama by Numbers: A Computational Analysis of Iranian Plays|¹University of Maryland / ²Islamic Azad University (Parand Branch)|11:30 AM|US/Iran|8 PM (Iran)|
 
-_Discussion 11:45 AM - 12:15 PM (UMD Time)_
+_Discussion 11:50 AM - 12:15 PM (UMD Time)_
